@@ -1,0 +1,38 @@
+body{
+    background-color: rgb(0, 140, 255);
+    padding-left: 25px;
+    padding-top: 25px;
+    display: flex;
+}
+.box{ 
+    margin-left: auto;
+    margin-right: auto;
+padding-top: 180px;
+}
+
+.caixa{
+  
+    padding-top: 25px;
+    padding-left: 25px;
+    padding-bottom: 25px;
+    border: solid, grey;
+    background-color: rgba(255, 255, 255, 0.747);
+    height: 150px;
+    width: 300px;
+    border-radius: 5%;
+    align-items: center;
+    text-align: center;
+    flex-direction: row;
+    justify-content: center;
+}
+.caixa02{
+    padding-top: 10px;
+
+}
+.joia{
+    border-radius: 65%;
+    width: 25px;
+    height: 25px;    
+    border-color: blue;
+    color: blue;
+}
